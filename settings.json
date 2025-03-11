@@ -1,7 +1,7 @@
 {
   "googleCloudStorage": {
     "projectId": "italojs-lab",
-    "keyFilename": "/Users/italojs/dev/meteor/apps/app-11-03-2024/italojs-lab-ea4168f4adac.json",
-    "bucketName": "examplo-bucket123"
+    "keyFilename": "<your_gcloud_key_file_path>",
+    "bucketName": "example-bucket123"
   }
 } 
